@@ -1,0 +1,7 @@
+{
+  "name": "SolidarieApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
